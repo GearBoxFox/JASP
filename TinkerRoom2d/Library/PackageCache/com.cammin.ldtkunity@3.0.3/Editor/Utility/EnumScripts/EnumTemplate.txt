@@ -1,8 +1,0 @@
-/// <summary>
-/// LDtk Enum for #PROJECT#
-/// </summary>
-public enum #DEFINITION#
-{
-    Null,
-    #VALUES#
-}
