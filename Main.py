@@ -60,7 +60,7 @@ class MyGame(arcade.Window):
             self.wallList.append(wall)
 
         #Create crates from 2d array
-        coordinate_list = [[512, 96], [256, 96], [768, 96]]
+        coordinate_list = [[512, 96], [256, 96], [768, 96], [0, 0]]
         for coordinate in coordinate_list:
 
             # Loop through coordinates array and add crates
